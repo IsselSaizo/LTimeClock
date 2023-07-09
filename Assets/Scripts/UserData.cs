@@ -2,16 +2,15 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-//Все данные пользователя, которые будут использоваться. 
-//Требуется добавить: образ жизни, вредные привычки, питание, болезни? А также сделать норм формулу
+// Данные только для таймера
 [System.Serializable]
 public class UserInfo
 {
-    public int CurrentAge;  //текущий возраст
-    public int MaxAge;      // Максимальный возраст в зависимости от пола
-    public int Result;      // Сколько осталось
-    public int ResultMax;   // До скольки доживёшь
-    public string Sex;      // Пол
+    public int years;
+    public int days;
+    public int hours;
+    public int minutes;
+    public float seconds;
 }
 
 public class UserData : MonoBehaviour
