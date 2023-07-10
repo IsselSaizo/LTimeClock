@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+F:\перенос\DeathWatch\DeathWatchCodeC++\ConsoleApplication1\ConsoleApplication1.cpp(46,16): warning C4804: <=: небезопасное использование типа "bool" в операции
+F:\перенос\DeathWatch\DeathWatchCodeC++\ConsoleApplication1\ConsoleApplication1.cpp(83,16): warning C4804: <: небезопасное использование типа "bool" в операции
+  ConsoleApplication1.vcxproj -> F:\перенос\DeathWatch\DeathWatchCodeC++\Debug\ConsoleApplication1.exe
