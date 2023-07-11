@@ -1,0 +1,14 @@
+1. What is the best watch to use to make it convenient to reflash?
+Best guide: https://www.youtube.com/watch?v=i9-PVR5vigs
+Best watch: Galaxy Watch 4.
+2. It's best to start counting down from X years, and after that memorize only how many years, days, hours, minutes, seconds are left.
+- Right.
+3. How to organize this?
+- There should be a count of the remaining time in years, and then you should transmit this number. Then the countdown would start and the remaining time would be memorized
+by the device at specific, equal time intervals.
+4- The timer should do just -1 second. If it gets to 0, it tries to subtract 1 from the minutes and add 59 to the seconds, etc.
+5. Ability to increase time with useful things to do. At the end of the day press the button with the actions of the current day: Bed button - go to bed early.
+early (1 touch, without touching it will be counted as late and will deduct time); button with food - if you ate only healthy food (if without touching it, the button is red and you will be deducted time again); button with food - if you ate only healthy food (if without touching it, the button is red and you will be deducted time again).
+the button is red and the time will be deducted again); the button with a ball - if you did exercise and sports today (without touching it will be red and deducted, after touching it will be blue and deducted, after
+After touching it will turn blue and add). Touching it again will bring the value back. The specified states will add/subtract only after the confirmation button is pressed.
+the confirm button is pressed. The buttons will then be unavailable for touching until the next day (or 12 hours).
